@@ -52,7 +52,7 @@ module.exports = {
       {
         title: 'bysec',
         desc: '个人技术博客',
-        logo: "http://www.oss.bysec.cn/img/logo/avatar.png",
+        logo: "http://api.btstu.cn/sjtx/api.php?format=images",
         link: 'http://www.bysec.cn/'
       },
       {

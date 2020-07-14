@@ -8,7 +8,19 @@ tags:
 ---
 
 ::: tip
-Typescript
+1. 布尔类型
+2. 数值类型
+3. 字符串
+4. 数组
+5. null 和 undefined
+6. object
+7. symbol
+8. 元组
+9. 枚举
+10. Any
+11. void
+12. never
+13. unknown
 :::
 
 <!-- more -->
