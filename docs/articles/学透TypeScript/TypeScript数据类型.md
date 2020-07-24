@@ -25,11 +25,11 @@ tags:
 
 <!-- more -->
 
-## TypeScript 是什么
+## 一、TypeScript 是什么
 
 [TypeScript](https://www.typescriptlang.org/) 是一种由微软开发的自由和开源的编程语言。它是 JavaScript 的一个超集，而且本质上向这个语言添加了可选的静态类型和基于类的面向对象编程。
 
-## 与 JavaScript 对比
+## 二、与 JavaScript 对比
 
 |                   TypeScript                   |                 JavaScript                 |
 | :--------------------------------------------: | :----------------------------------------: |
@@ -41,7 +41,7 @@ tags:
 |          支持 ES3，ES4，ES5 和 ES6 等          |  不支持编译其他 ES3，ES4，ES5 或 ES6 功能  |
 |       社区的支持仍在增长，而且还不是很大       | 大量的社区支持以及大量文档和解决问题的支持 |
 
-## TypeScript 数据类型
+## 三、TypeScript 数据类型
 
 ### 1.布尔类型
 
@@ -188,3 +188,9 @@ console.log(value.name);
 console.log(value.toFixed());
 console.log(value.length);
 ```
+
+## 四、参考的资料：
+
++ [1.2W字 | 了不起的 TypeScript 入门教程]( https://juejin.im/post/5edd8ad8f265da76fc45362c#heading-24 )
+
++ [零基础学透TypeScript]( https://www.imooc.com/read/35 )
